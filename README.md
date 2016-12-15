@@ -1,3 +1,9 @@
+libreria copiada solo para dispotivos Mele_A1000/A2000
+git clone https://github.com/calhemp/lib.git
+y mover el fichero compile.sh a una rama inferior para poder ejecutarlo, tal como el original.
+
+luego el script ya se actualiza cada vez con el mismo con https://github.com/igorpecovnik/lib original.
+
 # Armbian
 
 Ubuntu/Debian images for ARM based single-board computers
